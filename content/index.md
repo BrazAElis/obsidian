@@ -1,5 +1,5 @@
 ---
-title: bem vindo
+title: Eai
 ---
 
 Esse é o menu principal
