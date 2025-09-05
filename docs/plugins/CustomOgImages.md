@@ -259,7 +259,7 @@ export const og: SocialImageOptions["Component"] = (
 
   return (
     <div
-      style={{
+      style={%
         position: "relative",
         display: "flex",
         flexDirection: "row",
@@ -268,7 +268,7 @@ export const og: SocialImageOptions["Component"] = (
         width: "100%",
         backgroundImage: `url("https://${cfg.baseUrl}/static/og-image.jpeg")`,
         backgroundSize: "100% 100%",
-      }}
+      %}
     >
       <div
         style={{
