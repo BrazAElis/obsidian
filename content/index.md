@@ -2,6 +2,6 @@
 title: bem vindo
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Esse é o menu principal
 
+Não sei oque colocar nele ainda
