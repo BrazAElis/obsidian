@@ -1,7 +1,7 @@
 ---
 title: ideias para por na home
-draft: false
+draft: true
 tags:
 ---
 - [ ] lista de leituras
-- [ ] lista de ideias
+- [ ] 
