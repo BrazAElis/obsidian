@@ -1,5 +1,5 @@
 ---
-title: new note
+title: ideias para colocar na home page
 draft: false
 tags:
 ---
