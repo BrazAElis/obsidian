@@ -26,3 +26,4 @@ Pelo que eu entendi o "git push -u origin main" meio que lança as modificaçõe
 Então a sequência que faz sentido é primeiro mandar as modificações para o github e depois sincronizar elas.
 
 E pelo visto tinha uma atualização "atrasada". Tipo eu modifiquei 2 vezes, eu achei que atualizando 1 vez aparecia as 2 modificações mas pelo visto não (ou eu fiz algo de errado e não sei).
+
