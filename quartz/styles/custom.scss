@@ -1,56 +1,5 @@
 // put your custom CSS here!
 // quartz/styles/custom.scss
+@use "./base.scss";
 
-// 1. Defina suas cores
-:root {
-  // Cores principais
-  --light: #1a1a1a;        // Fundo principal
-  --lightgray: #2d2d2d;    // Fundo secundário
-  --gray: #666666;          // Texto secundário
-  --darkgray: #cccccc;      // Texto principal
-  --dark: #ffffff;          // Títulos
-  
-  --secondary: #7c9fb0;     // Links
-  --tertiary: #a8c5d1;      // Hover
-  --highlight: rgba(124, 159, 176, 0.15);
-  
-  // Fontes
-  --headerFont: "Crimson Pro", serif;
-  --bodyFont: "Source Sans Pro", sans-serif;
-  --codeFont: "JetBrains Mono", monospace;
-}
-
-// 2. Customize elementos específicos
-body {
-  background-color: var(--light);
-  color: var(--dark);
-}
-
-h1, h2, h3, h4, h5, h6 {
-  color: var(--dark);
-  font-family: var(--headerFont);
-}
-
-a {
-  color: var(--secondary);
-  
-  &:hover {
-    color: var(--tertiary);
-  }
-}
-
-// 3. Customize a tabela de leituras (quando criar)
-table {
-  border-collapse: collapse;
-  width: 100%;
-  
-  th {
-    background-color: var(--lightgray);
-    padding: 0.5rem;
-  }
-  
-  td {
-    padding: 0.5rem;
-    border-bottom: 1px solid var(--lightgray);
-  }
-}
+@use "./themes";
