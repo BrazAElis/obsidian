@@ -19,7 +19,7 @@ e
 git push -u origin main
 ```
 
-
+tipo mudou nada?
 
 Pelo que eu entendi o "git push -u orig in main" meio que lança as modificações que eu fiz pro repositório e o "npx quartz sync" é o que sincroniza o site atualizando as modificações.
 
